@@ -1,5 +1,5 @@
 '.platform-linux atom-workspace, .platform-win32 atom-workspace':
-  'alt-shift-n': 'toggle-node-modules:toggle'
+  'ctrl-alt-n': 'toggle-node-modules:toggle'
 
 '.platform-darwin atom-workspace':
-  'option-shift-n': 'toggle-node-modules:toggle'
+  'ctrl-option-n': 'toggle-node-modules:toggle'

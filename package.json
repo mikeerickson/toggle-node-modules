@@ -2,7 +2,7 @@
   "name": "toggle-node-modules",
   "version": "1.0.0",
   "main": "./lib/main",
-  "description": "Quickly toggle node modules",
+  "description": "Quickly toggle (hide | show) node modules",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mikeerickson/toggle-node-modules.git"

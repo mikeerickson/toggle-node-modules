@@ -16,7 +16,7 @@ Command                | Description
 
 Command            | Linux  | OS X  | Windows
 -------------------|--------|-------|----------
-`toggle-node-modules:toggle` | <kbd>Shift-Alt-N</kbd> | <kbd>Shift-Option-N</kbd> | <kbd>Shift-Alt-N</kbd>
+`toggle-node-modules:toggle` | <kbd>Ctrl-Alt-N</kbd> | <kbd>Ctrl-Option-N</kbd> | <kbd>Ctrl-Alt-N</kbd>
 
 Custom keybindings can be added by referencing the above commands.  To learn more, visit the [Using Atom: Basic Customization](https://atom.io/docs/latest/using-atom-basic-customization#customizing-key-bindings) or [Behind Atom: Keymaps In-Depth](https://atom.io/docs/latest/behind-atom-keymaps-in-depth) sections in the flight manual.
 
