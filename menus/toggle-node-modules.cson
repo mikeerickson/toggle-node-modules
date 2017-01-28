@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Toggle Node Modules'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'toggle-node-modules:toggle' }
+      ]
+    ]
+  }
+]
