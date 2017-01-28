@@ -2,4 +2,4 @@
   'alt-shift-n': 'toggle-node-modules:toggle'
 
 '.platform-darwin atom-workspace':
-  'alt-shift-n': 'toggle-node-modules:toggle'
+  'option-shift-n': 'toggle-node-modules:toggle'
