@@ -1,6 +1,6 @@
 {
   "name": "toggle-node-modules",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "./lib/main",
   "description": "Quickly toggle (hide | show) node modules",
   "repository": {
@@ -13,14 +13,12 @@
       "toggle-node-modules:toggle"
     ]
   },
-  "engines": {
-    "atom": "^1.0.8"
-  },
+  "engines": {"atom": ">=1.0.0 <2.0.0"},
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/atom/toggle-node-modules/issues"
+    "url": "https://github.com/mikeerickson/toggle-node-modules/issues"
   },
-  "homepage": "https://github.com/atom/toggle-node-modules#readme",
+  "homepage": "https://github.com/mikeerickson/toggle-node-modules#readme",
   "_id": "toggle-node-modules@1.0.0",
   "_atomModuleCache": {
     "version": 1,
