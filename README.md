@@ -31,4 +31,4 @@ has some extra information.
 
 ## License
 
-[MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/atom/toggle-quotes/blob/master/LICENSE.md) for more details.
+[MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mikeerickson/toggle-node-modules/LICENSE.md) for more details.
