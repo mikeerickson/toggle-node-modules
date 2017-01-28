@@ -22,7 +22,7 @@ Custom keybindings can be added by referencing the above commands.  To learn mor
 
 ### License
 
-Copyright &copy; 2016-2017 Mike Erickson
+Copyright &copy; 2017 Mike Erickson
 Released under the MIT license
 
 
